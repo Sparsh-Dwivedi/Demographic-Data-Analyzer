@@ -23,10 +23,6 @@ You must use Pandas to answer the following questions:
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India. 
 
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
-
 ### Dataset Source
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
